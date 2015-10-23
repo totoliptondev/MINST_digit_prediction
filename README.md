@@ -1,5 +1,5 @@
 #Introduction
-This script is for predicting the MINST digit recognition dataset. The test and training set are public avaliable and can be downloaded at [here](https://www.kaggle.com/c/digit-recognizer/data). Since the MINST dataset is very well formatted, there is not much preprocessing needed. The algorithms used in this script are a combination of neural network and random forest classifier from the sklearn toolbox.
+This script is for predicting the MINST digit recognition dataset. The test and training set are public avaliable and can be downloaded at [here](https://www.kaggle.com/c/digit-recognizer/data). Since the MINST dataset is very well formatted, there is not much preprocessing needed. The algorithms used in this script are a combination of neural network and random forest classifier from the sklearn toolbox. This README.md is genereatd using ipython notebook directly from the minst_predict.ipynb files.
 
 
 
